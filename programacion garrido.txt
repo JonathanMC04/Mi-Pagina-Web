@@ -1,0 +1,27 @@
+<html>
+<head>
+<title>mi pagina</title>
+<body>
+hola mi nombre es  Jonathan Alberto Cortes Castillo y Kelly Guadalupe Juan Gonzalez 1-406
+<h1>Hola mi nombre es Jonathan y Kelly</h1>
+<h2>Hola mi nombre es Jonathan y Kelly</h2>
+<h3>Hola mi nombre es Jonathan y Kelly</h3>
+<h4>Hola mi nombre es Jonathan y Kelly</h4>
+<h5>Hola mi nombre es Jonathan y Kelly</h5>
+<img src="aa.png">
+<img src="pz.gif">
+<a href="https://htmlcolorcodes.com/es/">colores pagina</a>
+<h1>Hola mi nombre es Jonathan y Kelly</h1>
+<marquee><font color="red">
+<ul> lista de modulos
+<li>progrmacion</li>
+<li>Checo Perez</li>
+<li>diganostico de fallas</li>
+<li>Anuel AA</li>
+<li>Cartel de Santa</li>
+</font>
+</ul>
+<body bgcolor="blue">
+</body>
+</head>
+</html>
